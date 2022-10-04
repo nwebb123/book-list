@@ -1,0 +1,11 @@
+{
+  "name": "book-list",
+  "version": "1.0.0",
+  "description": "Vanilla JS application that adds/removes books from a table. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Webb",
+  "license": "ISC"
+}
